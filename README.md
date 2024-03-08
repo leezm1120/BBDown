@@ -4,7 +4,7 @@
 一款命令行式哔哩哔哩下载器. Bilibili Downloader.
 
 # 注意
-本软件混流时需要外部程序：
+本软件混流时需要外部程序： 
 
 * 普通视频：[ffmpeg](https://www.gyan.dev/ffmpeg/builds/) ，或 [mp4box](https://gpac.wp.imt.fr/downloads/)
 * 杜比视界：ffmpeg5.0以上或新版mp4box.
